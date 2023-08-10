@@ -20,17 +20,27 @@ Before running the simulation, make sure you have Python installed on your syste
 
 ## How to Run
 
-1. Download or clone this repository to your local machine.
+To run the bank account simulation on your local machine, follow these steps:
+
+1. **Download or Clone Repository**: Start by downloading or cloning this repository to your computer. You can use the following command if you have Git installed:
+
+   ```bash
+   git clone https://github.com/shisian512/Bank-Account-Simulation.git
+   ```
 
 2. Open a terminal or command prompt and navigate to the project directory.
 
-3. Run the following command to execute the simulation:
+   ```bash
+   cd /Bank-Account-Simulation
+   ```
+   
+4. Run the following command to execute the simulation:
 
    ```bash
-   python bank_account_simulation.py
+   python main.py
    ```
 
-4. Follow the on-screen instructions to interact with the bank account simulation.
+5. Follow the on-screen instructions to interact with the bank account simulation.
 
 ## Usage
 
